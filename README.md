@@ -169,5 +169,4 @@ ideas.
 
 ## License
 
-(Consider adding a license, e.g., MIT License) This project is open source and
-available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](LICENSE).
